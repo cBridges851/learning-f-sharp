@@ -11,3 +11,10 @@ I went onto the bindings/mutables part of the tutorial. I made a new project for
 I am now onto making functions in F#, and I have started making a basic function that adds 2 numbers together in the functions project. While learning this, I discovered how you can cast numbers,  
 
 I am currently 12:30 into the video.  
+
+## 9th February 2021
+I completed the functions section of the F# tutorial. This involved writing a recursive function to find a factorial value of a number, doubling numbers in a list, only outputting even numbers, and executing multiple functions.
+
+I then moved onto the maths section of the tutorial. This involved looking at operators, which are the same as the other languages I have used, as well as finding the type of a variable, casting, and more advanced mathematical functions (abs, ceil, floor, log, log10, and square root).
+
+I am currently 25:21 into the video.
