@@ -23,3 +23,8 @@ I am currently 25:21 into the video.
 I completed the strings section of the tutorial. This looked at different types of strings, finding the length of one, getting an individual character, getting sections of a string, and using functions on a string.
 
 I am currently 33:42 into the video.
+
+## 23rd February 2021
+The loops section of the tutorial has been completed. This looked at while and for loops in F#, as well as other ways of iterating. This included using a range and pipelining, as well as using the reduce function to find the sum of numbers in a range.
+
+I am currently 38:38 into the video, and I also came across another video that intrigues me... https://www.youtube.com/watch?v=34C_7halqGw
