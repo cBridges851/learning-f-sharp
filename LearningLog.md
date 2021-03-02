@@ -28,3 +28,8 @@ I am currently 33:42 into the video.
 The loops section of the tutorial has been completed. This looked at while and for loops in F#, as well as other ways of iterating. This included using a range and pipelining, as well as using the reduce function to find the sum of numbers in a range.
 
 I am currently 38:38 into the video, and I also came across another video that intrigues me... https://www.youtube.com/watch?v=34C_7halqGw
+
+## 2nd March 2021
+The conditionals and list sections of the tutorial have been completed. The conditionals section looked at the if, elif and else, AND and OR operators, as well as match. The list section looked at how you can create a list, how to append one, ranges, yield, yield!, head, tail, as well as methods (.init, .filter, .map, .sort, .fold).
+
+I am currently 55:25 into the video.
