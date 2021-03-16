@@ -38,3 +38,8 @@ I am currently 55:25 into the video.
 The enums, options and tuples sections of the tutorial have been completed. There are lots of similiarities between these and C#. Options are for when a function may not return a value and may use the .IsSome or .IsNone method.
 
 I am currently 1:01:46 into the video.
+
+## 16th March 
+The records, sequences and maps sections of the tutorial have been completed. From my understanding, records are effectively like classes whereas maps are kind of like dictionaries. Sequences are infinite data structures that are not defined until they are used.
+
+I am currently 1:12:53 into the video.
