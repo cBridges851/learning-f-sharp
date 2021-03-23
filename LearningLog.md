@@ -42,4 +42,10 @@ I am currently 1:01:46 into the video.
 ## 16th March 
 The records, sequences and maps sections of the tutorial have been completed. From my understanding, records are effectively like classes whereas maps are kind of like dictionaries. Sequences are infinite data structures that are not defined until they are used.
 
-I am currently 1:12:53 into the video.
+I am currently 1:12:53 into the video.  
+
+
+## 23rd March
+The generics, exception handling, and structs sections of the tutorial have been completed. Same ideas as C#, different syntax.
+
+I am currently 1:19:15 into the video.
