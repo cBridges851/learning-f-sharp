@@ -49,3 +49,6 @@ I am currently 1:12:53 into the video.
 The generics, exception handling, and structs sections of the tutorial have been completed. Same ideas as C#, different syntax.
 
 I am currently 1:19:15 into the video.
+
+## 13th April 
+The class section of the tutorial has been completed, meaning the whole tutorial has been completed! I am now having a look at the video which intrigues me...
